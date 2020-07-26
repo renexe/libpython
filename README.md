@@ -5,6 +5,7 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Link para o curso [Python Pro] [https://www.python.pro.br]
 
+[![Build Status](https://travis-ci.com/renexe/libpython.svg?branch=master)](https://travis-ci.com/renexe/libpython)
 
 Suportado Versão 3 de Python
 
