@@ -4,4 +4,4 @@ python:
 install:
   - pip install -q -r requirements-dev.txt
 script:
-  - python --version
+  - flake8
