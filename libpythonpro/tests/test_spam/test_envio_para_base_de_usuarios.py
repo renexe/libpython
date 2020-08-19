@@ -2,10 +2,9 @@ from unittest.mock import Mock
 
 import pytest
 
-from libpythonpro.spam.enviador_de_email import Enviador
 from libpythonpro.spam.main import EnviadorDeSpam
 from libpythonpro.spam.modelos import Usuario
-from libpythonpro.tests.test_spam.conftest import sessao
+
 
 @pytest.mark.parametrize(
     'usuarios',
