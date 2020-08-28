@@ -6,7 +6,7 @@ pyflakes==2.2.0
 #Deps do pytest
 pytest==6.0.1
 py==1.9.0
-more_itertools==8.4.0
+more_itertools==8.5.0
 pluggy==0.13.1
 attrs==19.3.0
 atomicwrites==1.4.0
