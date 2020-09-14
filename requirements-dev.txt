@@ -16,7 +16,7 @@ wcwidth==0.2.5
 pytest-mock==3.2.0
 
 #Coverage
-coverage==5.2.1
+coverage==5.3
 pytest-cov==2.10.1
 
 -r requirements.txt
